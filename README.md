@@ -8,7 +8,7 @@ The content below demonstrates practical hands-on usage of Oracle Cloud Infrastr
 
 ## 1. OCI VCN and Networking
 **Summary:** Evidence of created OCI VCN, subnets, and networking configuration.  
-**Video:** [Watch Video](PASTE_LINK_HERE)
+**Video:** [Watch Video](https://1drv.ms/v/c/a459633800dba502/IQBiGQsKNvyQT6nGtKcqWAegAfF2f32BDu2ypbdjjqTYR-I?e=aK9K5X)
 
 ---
 
