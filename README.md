@@ -7,7 +7,23 @@ The content below demonstrates practical hands-on usage of Oracle Cloud Infrastr
 ---
 
 ## 1. OCI VCN and Networking
-**Summary:** Evidence of created OCI VCN, subnets, and networking configuration.  
+**Summary:** This video demonstrates practical use of Oracle Cloud Infrastructure (OCI) networking services by building and validating a secure VCN design.
+
+What is shown:
+- Creation and validation of a Virtual Cloud Network (VCN)
+- Configuration of required gateways, route tables and security controls
+- Creation of dedicated public and private route tables
+- Use of Network Security Groups (NSGs) as the recommended access control approach
+- Validation that minimum required networking rules were configured for secure connectivity
+
+Oracle services used:
+- OCI Virtual Cloud Network (VCN)
+- OCI Route Tables
+- OCI Gateways
+- OCI Network Security Groups (NSGs)
+
+Purpose:
+To demonstrate hands-on OCI networking configuration and secure network segmentation for public and private resources.  
 **Video:** [Watch Video](https://1drv.ms/v/c/a459633800dba502/IQA7ScgQWRfXQLJ3XBWM52TUAXKhiqBO8mpt8usimdTKLT4?e=5GqmSj)
 
 ---
